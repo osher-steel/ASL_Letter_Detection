@@ -1,4 +1,4 @@
-ASL_Letter_Detection
+# ASL_Letter_Detection
 This application activates the user's webcam and uses the live feed to detect the ASL letters and digits being displayed.
 
 train_model.py parses and normalizes the training and testing data and trains the model with it. It creates a .csv and .joblib file to be used by the other python script.
