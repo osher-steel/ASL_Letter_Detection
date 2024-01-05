@@ -9,9 +9,9 @@ The model uses these datasets for the ASL Detection
 - https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset (letters)
 
 
-<img width="720" alt="Screen Shot 2024-01-05 at 5 54 41 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/adc2a7ba-c355-4ae2-ad48-0ec1a0955b97">
+<img width="1440" alt="Screen Shot 2024-01-05 at 5 54 41 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/bffaf5f7-1871-41ec-a3e1-d77c0143a636">
 
-<img width="720" alt="Screen Shot 2024-01-05 at 5 56 49 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/e49d2d9c-dab3-4b05-9cc9-edd573ce5bd8">
+<img width="1440" alt="Screen Shot 2024-01-05 at 5 56 49 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/a5952649-c320-4f7a-b270-8f8d6f923d39">
 
 
 
