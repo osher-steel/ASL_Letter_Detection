@@ -10,13 +10,13 @@ from sklearn.metrics import accuracy_score
 import joblib
 from tqdm import tqdm
 
-model_path = '/Users/oshersteel/Documents/Personal_Projects/Computer Vision/Models/gesture_recognizer.task'
+model_path = 'utils/gesture_recognizer.task'
 
-training_set = '/Users/oshersteel/Documents/Personal_Projects/Computer Vision/ASL Detection/ASL_Alphabet_Dataset/asl_alphabet_train'
-testing_set = '/Users/oshersteel/Documents/Personal_Projects/Computer Vision/ASL Detection/ASL_Alphabet_Dataset/asl_alphabet_test'
+training_set = 'ASL_Alphabet_Dataset/asl_alphabet_train'
+testing_set = 'ASL_Alphabet_Dataset/asl_alphabet_test'
 
-training_csv = 'results/landmark_training_set3.csv'
-testing_csv = 'results/landmark_testing_set3.csv'
+training_csv = 'landmark_training_set3.csv'
+testing_csv = 'landmark_testing_set3.csv'
 
 def create_hand_recognizer():
     # Create recognizer with Image mode
