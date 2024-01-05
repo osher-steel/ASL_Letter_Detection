@@ -11,7 +11,7 @@ The model uses these datasets for the ASL Detection
 
 <img width="500" alt="Screen Shot 2024-01-05 at 5 54 41 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/bffaf5f7-1871-41ec-a3e1-d77c0143a636">
 
-<img width="1440" alt="Screen Shot 2024-01-05 at 5 56 49 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/a0a17040-b0c3-415d-8072-4d313c64f01b">
+<img width="500" alt="Screen Shot 2024-01-05 at 5 56 49 PM" src="https://github.com/osher-steel/ASL_Letter_Detection/assets/111786194/a0a17040-b0c3-415d-8072-4d313c64f01b">
 
 
 
