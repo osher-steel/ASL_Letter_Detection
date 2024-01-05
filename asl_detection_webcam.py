@@ -8,7 +8,7 @@ import numpy as np
 import contextlib
 from io import StringIO
 
-classifier = joblib.load('results/ASL_A2G_model.joblib')
+classifier = joblib.load('ASL_A2G_model.joblib')
 classifier.n_jobs = 1
 
 def model_prediction(recognizer_result,img):
